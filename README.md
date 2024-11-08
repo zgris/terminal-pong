@@ -1,6 +1,10 @@
 # terminal-pong
 ### You know, the game, Pong. In your terminal.
-#### two-player
+
+![Title Screen](pong-title-screen.png)
+
+![Real in-game footage](pong-gameplay.png)
+
 
 
 
