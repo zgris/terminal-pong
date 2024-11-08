@@ -1,5 +1,6 @@
 # terminal-pong
-You know, the game, Pong. In your terminal.
+### You know, the game, Pong. In your terminal.
+#### two-player
 
 
 
