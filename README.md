@@ -10,11 +10,11 @@ Actual in-game footage:
 
 To compile, use:
 
-gcc pong.c -o pong
+    gcc pong.c -o pong
 
 
 
 To run the game, use:
 
-./pong
+    ./pong
 
