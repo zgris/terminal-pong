@@ -1,6 +1,8 @@
 # terminal-pong
 ### You know, the game, Pong. In your terminal.
 
+Actual in-game footage:
+
 ![Real in-game footage](gameplay-pong.gif)
 
 
